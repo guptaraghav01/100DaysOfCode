@@ -9,3 +9,10 @@ total_bill = bill + total_tip_amount
 bill_per_person = total_bill / num_people
 final_amount = "{:.2f}".format(bill_per_person)
 print(f"Each person should pay: ${final_amount}")
+
+# Output
+# Welcome to the tip calculator!
+# What was your total bill? $153.45
+# What percent tip would you like to give? 15
+# How many people will split the bill? 5
+# Each person should pay: $35.29
