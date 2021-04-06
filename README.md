@@ -24,5 +24,5 @@ This repository follows Dr. Angela Yu's 100 Days Of Code course on udemy and con
 [19. Day19](https://github.com/guptaraghav01/100DaysOfCode/tree/master/day_19)  
 [20. Day20](https://github.com/guptaraghav01/100DaysOfCode/tree/master/day_20)  
 [21. Day21](https://github.com/guptaraghav01/100DaysOfCode/tree/master/day_21)  
-[22. Day22](https://github.com/guptaraghav01/100DaysOfCode/tree/master/day_22)
+[22. Day22](https://github.com/guptaraghav01/100DaysOfCode/tree/master/day_22)  
 [23. Day23](https://github.com/guptaraghav01/100DaysOfCode/tree/master/day_23)
